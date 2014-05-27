@@ -29,4 +29,4 @@ Features include
 
 Semantria also offers a [free Excel Add-In](https://semantria.com/excel) that let's you process content directly from within Excel without any coding or integration work required. It is a fully functional API client with an easy to use GUI.
 
-Excel Add-In [video tutorials](https://semantria.com/video) are available to help get you started. They cover topics such as categorization, custom entities creation, sentiment adjustment and many more. They are all available here: https://semantria.com/video
+Excel Add-In [video tutorials](https://semantria.com/video) are available to help get you started. They cover topics such as categorization, custom entities creation, sentiment adjustment and many more.
