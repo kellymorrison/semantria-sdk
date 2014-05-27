@@ -14,7 +14,7 @@ The SDKs include source code for 7 different languages
 - Ruby language
 - JavaScript (browser based, can be easy ported to server-side)
 
-A **free trial** is available at https://semantria.com/trial 
+A **free trial** is available at https://semantria.com/trial.
 Please visit out [developer portal](https://semantria.com/developer) for integration information.
 
 Features include
