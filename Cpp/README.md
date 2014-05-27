@@ -1,4 +1,4 @@
-##Semantria Multilingual SDK##
+##Semantria C++ SDK##
 
 [Semantria](https://semantria.com) is a **text analytics and sentiment analysis API**. It allows you to gain valuable insights from your unstructured text content by extracting categories, topics, themes, facets, and sentiment. It is based on [Lexalytics' Salience](http://www.lexalytics.com/technical-info/salience-engine-for-text-analysis) engine, which is used by Oracle, Cisco, Thomson Reuters, Saleforce.com - Radian6, Visible, Lithium, and 50+ other leaders in the space.
 
