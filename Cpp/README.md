@@ -5,19 +5,20 @@
 [Semantria](https://semantria.com) offers **C++ SDK**, that is the most convenient way to get started with the Semantria API on C++.
 SDK implements all the available Semantria features and demonstrate best practices of API usage.
 
-A **free trial** is available at https://semantria.com/trial 
+A **free trial** is available at https://semantria.com/trial.
 Please visit out [developer portal](https://semantria.com/developer) for integration information.
 
 Features include
 
-- [Entity](https://semantria.com/features/entity-extraction) extraction (both model and dictionary based)
-- [Theme/keyword](https://semantria.com/features/themes) extraction
-- Categorization/Classification ([Query](https://semantria.com/features/query-topics) and [Wikipedia ontology](https://semantria.com/features/concept-matrix-deep-learning)-based)
-- [Summarization](https://semantria.com/features/summarization)
-- [Sentiment Analysis](https://semantria.com/features/sentiment-analysis) (document, entity, theme/keyword, and category level)
-- [Discovery Mode](https://semantria.com/features/discovery-content-analysis) (birds-eye view on your dataset, combining SPSS-like statistical analysis and full scale NLP approach)
-- [Supports 9 languages natively](https://semantria.com/features/multi-lingual-support) (entity extraction, categorization, sentiment analysis, etc): English, French, Portuguese, Spanish, German, Mandarin, Italian, Korean and Japanese.
+- [Entity](https://semantria.com/technology/entity-extraction) extraction (both model and dictionary based)
+- [Theme/keyword](https://semantria.com/technology/themes) extraction
+- Categorization/Classification ([Query](https://semantria.com/technology/query-topics) and [Wikipedia ontology](https://semantria.com/technology/concept-matrix)-based)
+- [Summarization](https://semantria.com/technology/summarization)
+- [Sentiment Analysis](https://semantria.com/technology/sentiment-analysis) (document, entity, theme/keyword, and category level)
+- [Collections Mode](https://semantria.com/technology/collection-processing) (birds-eye view on your dataset, combining SPSS-like statistical analysis and full scale NLP approach)
+- [Supports 5 languages natively](https://semantria.com/technology/multi-lingual-support) (entity extraction, categorization, sentiment analysis, etc): English, French, Portuguese, Spanish, and German.
 
-Semantria also offers a **free Excel Add-In** that let's you process content directly from within Excel without any coding or integration work required. It is a fully functional API client with an easy to use GUI. (https://semantria.com/excel) 
+Semantria also offers a [free Excel Add-In](https://semantria.com/excel) that let's you process content directly from within Excel without any coding or integration work required. It is a fully functional API client with an easy to use GUI.
 
-Excel Add-In video tutorials are available to help get you started. They cover topics such as categorization, custom entities creation, sentiment adjustment and many more. They are all available here: https://semantria.com/video
+Excel Add-In [video tutorials](https://semantria.com/video) are available to help get you started. They cover topics such as categorization, custom entities creation, sentiment adjustment and many more.
+
