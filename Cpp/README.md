@@ -1,5 +1,5 @@
 Semantria is a text analytics and sentiment analysis API. It allows you to gain valuable insights from your unstructured text content.
-It is based on Lexalytics’ Salience – a text analytics and sentiment analysis engine.
+It is based on Lexalytics' Salience – a text analytics and sentiment analysis engine.
 The same engine as the one being used by Oracle, Cisco, Thomson Reuters, Saleforce.com - Radian6, Visible, Lithium, and 50+ other leaders in the space.
 
 Semantria offers C++ SDK, that is the most convenient way to get started with the Semantria API on C++.
@@ -16,6 +16,6 @@ Functionality includes:
 	- Full support of 5 languages (entity extraction, categorization, sentiment analysis, etc): English, French, Portuguese, Spanish, and German.
 	- Part of speech markup
 
-Semantria also has a free Excel Add-In that let’s you process content from inside your Excel without any coding, integration work, etc.
+Semantria also has a free Excel Add-In that let's you process content from inside your Excel without any coding, integration work, etc.
 It is a fully functional API client with an easy to use API configuration GUI is available at http://www.semantria.com/excel
 An Excel Add-In demo overview, categorization tutorial, custom entities set-up, and sentiment adjustment video are all available at http://www.semantria.com/video
