@@ -17,7 +17,7 @@ Features include
 - [Sentiment Analysis](https://semantria.com/technology/sentiment-analysis) (document, entity, theme/keyword, and category level)
 - [Collections Mode](https://semantria.com/technology/collection-processing) (birds-eye view on your dataset, combining SPSS-like statistical analysis and full scale NLP approach)
 - [Supports 9 languages natively](https://semantria.com/features/multi-lingual-support) (entity extraction, categorization, sentiment analysis, etc): English, French, Portuguese, Spanish, German, Mandarin, Italian, Korean and Japanese.
-- 
+
 Semantria also offers a [free Excel Add-In](https://semantria.com/excel) that let's you process content directly from within Excel without any coding or integration work required. It is a fully functional API client with an easy to use GUI.
 
 Excel Add-In [video tutorials](https://semantria.com/video) are available to help get you started. They cover topics such as categorization, custom entities creation, sentiment adjustment and many more.
